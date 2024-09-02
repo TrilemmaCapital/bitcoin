@@ -1,6 +1,6 @@
 # Bitcoin Pricing Models (Work In Progress)
 
-A collection of Jupyter Notebooks designed for Bitcoin pricing modelling 
+A collection of Jupyter Notebooks designed for Bitcoin pricing modeling. 
 
 ## Legal Disclaimer
 
